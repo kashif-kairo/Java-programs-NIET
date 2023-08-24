@@ -98,12 +98,22 @@ public class Operators1 {
 
 //         [{( Logical Operation )}]
 
-        boolean a= true;
-        boolean b= false;
-        System.out.println(a&&b);
-        System.out.println(a||b);
-        System.out.println(!b);
-        System.out.println(a^b);
+//         boolean a= true;
+//         boolean b= false;
+//         System.out.println(a&&b);
+//         System.out.println(a||b);
+//         System.out.println(!b);
+//         System.out.println(a^b);
+//--------------------------------------------------     
+//         [{( Ternary Operator )}]
+
+//        int n1=9;
+//        int n2=8;
+//        int max=n1>n2?n1:n2;
+//        System.out.print(max);
+//        
+//--------------------------------------------------     
+
         
 
 
